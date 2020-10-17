@@ -12,6 +12,5 @@ title: PODS‘01 Optimal and Approximate
 ### limited summary space bound
 ## Contribution：
 ### Histogram-based Method
+#### for a given space bound, minimize the total error
 ### Wavelet-based Method
-### Experiment
-##
